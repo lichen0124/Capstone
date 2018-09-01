@@ -1,5 +1,5 @@
 # Capstone
-A Capstone submitted to University College Dublin in part fulfilment of the requirements of the degree of M.Sc. in Business Analytics.
+A Capstone project submitted to University College Dublin in part fulfilment of the requirements of the degree of M.Sc. in Business Analytics.
 
 The original data are: "TutorDurationData.csv" and "Number of tutors per hour.xlsx".
 "data0709.csv" is the transformed data file after integrating the two original data files.
